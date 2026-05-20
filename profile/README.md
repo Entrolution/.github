@@ -11,12 +11,6 @@ Open-source tools at the intersection of documents, AI, and scientific computing
 | [cdx-pandoc](https://github.com/Entrolution/cdx-pandoc) | Pandoc writer/reader for converting documents to and from Codex format. |
 | [Speed-Read](https://github.com/Entrolution/speed-read) | Lightweight, embeddable document reader for EPUB, PDF, and CBZ. One line to add a reader to any webpage. |
 
-## AI Tooling
-
-| Project | Description |
-|---------|-------------|
-| [Causantic](https://github.com/Entrolution/causantic) | Local-first long-term memory for AI coding tools. Causal graphs, hybrid BM25+vector search, self-benchmarking. |
-
 ## Scientific Computing
 
 | Project | Description |
