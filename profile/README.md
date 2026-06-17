@@ -23,3 +23,9 @@ Open-source tools at the intersection of documents, AI, and scientific computing
 | Project | Description |
 |---------|-------------|
 | [Bengal STM](https://github.com/Entrolution/bengal-stm) | Software Transactional Memory for Cats Effect with intelligent scheduling via static analysis of transaction variable domains. |
+
+## Developer Tools
+
+| Project | Description |
+|---------|-------------|
+| [quotaline](https://github.com/Entrolution/quotaline) | Claude Code status line for your account-wide usage limits — the 5-hour and weekly windows — with a live burn rate and cap warnings. Reads only Claude Code's stdin: no token, no API calls. |
