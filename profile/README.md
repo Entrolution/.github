@@ -6,9 +6,9 @@ Open-source tools at the intersection of documents, AI, and scientific computing
 
 | Project | Description |
 |---------|-------------|
-| [Codex Format Spec](https://github.com/Entrolution/codex-file-format-spec) | Open specification for a modern document format with semantic content, cryptographic integrity, and verifiable provenance. |
-| [cdx-core](https://github.com/Entrolution/cdx-core) | Rust reference implementation for reading, writing, and validating Codex (.cdx) files. |
-| [cdx-pandoc](https://github.com/Entrolution/cdx-pandoc) | Pandoc writer/reader for converting documents to and from Codex format. |
+| [CDX Format Spec](https://github.com/Entrolution/cdx-file-format-spec) | Open specification for a modern document format with semantic content, cryptographic integrity, and verifiable provenance. |
+| [cdx-core](https://github.com/Entrolution/cdx-core) | Rust reference implementation for reading, writing, and validating CDX (.cdx) files. |
+| [cdx-pandoc](https://github.com/Entrolution/cdx-pandoc) | Pandoc writer/reader for converting documents to and from CDX format. |
 
 ## Scientific Computing
 
