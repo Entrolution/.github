@@ -29,3 +29,4 @@ Open-source tools at the intersection of documents, AI, and scientific computing
 | Project | Description |
 |---------|-------------|
 | [quotaline](https://github.com/Entrolution/quotaline) | Claude Code status line for your account-wide usage limits — the 5-hour and weekly windows — with a live burn rate and cap warnings. Reads only Claude Code's stdin: no token, no API calls. |
+| [vastline](https://github.com/Entrolution/vastline) | Claude Code status line for vast.ai GPU usage — running/total instances, running-compute vs stopped-storage burn, account balance, and runway. Sits under any existing status line; cached off the render path with a read-only key. |
